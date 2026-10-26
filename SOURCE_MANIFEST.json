@@ -1,0 +1,345 @@
+{
+  "format_version": 1,
+  "snapshot": "lexture-source-2026-10-26",
+  "upstream_repository": "https://github.com/awxkee/libmobi-swift",
+  "upstream_commit": "bbe180f247527f24be18526856a35473a2ad3fe6",
+  "source_files_identical_to_current_lexture_vendor": true,
+  "files": [
+    {
+      "path": "Package.swift",
+      "sha256": "d25d450758c384e6ef9d4bb0c891f5a5f08cc92d58d9a6782fc12622b5184a55",
+      "bytes": 1222,
+      "upstream_status": "modified",
+      "upstream_sha256": "aa4dd297b4d455843d4981af88f723e02468baf84861a858a5cd6b817784dba0"
+    },
+    {
+      "path": "LICENSE.md",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "bytes": 7048,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+    },
+    {
+      "path": "Sources/libmobi/Mobi+Errors.swift",
+      "sha256": "d33b632fa5357c65a5ca654a530b407a6be199d26338a6e383f239ede162755f",
+      "bytes": 1202,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "d33b632fa5357c65a5ca654a530b407a6be199d26338a6e383f239ede162755f"
+    },
+    {
+      "path": "Sources/libmobi/Mobi.swift",
+      "sha256": "88ec02cf6c52398bbf534cf4530abe6386c4e44c08b90dc6c973940f5403920a",
+      "bytes": 6201,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "88ec02cf6c52398bbf534cf4530abe6386c4e44c08b90dc6c973940f5403920a"
+    },
+    {
+      "path": "Sources/libmobi/MobiDriver.swift",
+      "sha256": "f397e5629bee03ddfe6b00f29d7a82e688e788ec863a6428fe09ec31e60600cb",
+      "bytes": 212,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "f397e5629bee03ddfe6b00f29d7a82e688e788ec863a6428fe09ec31e60600cb"
+    },
+    {
+      "path": "Sources/libmobi/MobiFileDriver.swift",
+      "sha256": "38ec3bc7b1a77c82c816bdc9ab36fe9dd8d008df5404c5c3896b00b35ec10fdf",
+      "bytes": 1309,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "38ec3bc7b1a77c82c816bdc9ab36fe9dd8d008df5404c5c3896b00b35ec10fdf"
+    },
+    {
+      "path": "Sources/libmobic/buffer.c",
+      "sha256": "9d74b8a796c4c3730d70961bb93eaba81ffaa30891698e57965f1b9ad31f6bf7",
+      "bytes": 19066,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "9d74b8a796c4c3730d70961bb93eaba81ffaa30891698e57965f1b9ad31f6bf7"
+    },
+    {
+      "path": "Sources/libmobic/buffer.h",
+      "sha256": "97600d096ac4083ffb2c8fbaf25af5854c882813214eb04082d7631ae36684f5",
+      "bytes": 2582,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "97600d096ac4083ffb2c8fbaf25af5854c882813214eb04082d7631ae36684f5"
+    },
+    {
+      "path": "Sources/libmobic/common.c",
+      "sha256": "ba670506616a397ae86dc7db8ff333f127504058ee7b1f35cf42891e858724be",
+      "bytes": 19990,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "ba670506616a397ae86dc7db8ff333f127504058ee7b1f35cf42891e858724be"
+    },
+    {
+      "path": "Sources/libmobic/common.h",
+      "sha256": "508ec299d479962fd696ede70a710d9702aeaa1dbde7c6b3bb7709c9373cdb22",
+      "bytes": 2298,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "508ec299d479962fd696ede70a710d9702aeaa1dbde7c6b3bb7709c9373cdb22"
+    },
+    {
+      "path": "Sources/libmobic/compression.c",
+      "sha256": "d2a73cc7d0e426799c41911bcfca6e393e748bd7feb08698737b6ea2e9d23bd0",
+      "bytes": 8320,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "d2a73cc7d0e426799c41911bcfca6e393e748bd7feb08698737b6ea2e9d23bd0"
+    },
+    {
+      "path": "Sources/libmobic/compression.h",
+      "sha256": "407455334935cb06b0c593de34861a87f39ef1d2ba61774064694c34b8606763",
+      "bytes": 1852,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "407455334935cb06b0c593de34861a87f39ef1d2ba61774064694c34b8606763"
+    },
+    {
+      "path": "Sources/libmobic/config.h",
+      "sha256": "891a2e2beded02a9dfc43a341394069f5d07b504f78470177dfdb5c5ca5a9c99",
+      "bytes": 336,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "891a2e2beded02a9dfc43a341394069f5d07b504f78470177dfdb5c5ca5a9c99"
+    },
+    {
+      "path": "Sources/libmobic/debug.c",
+      "sha256": "01b63c1397d7574f406febe2d424030060faa2f43473b683237da37ba7c46692",
+      "bytes": 4928,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "01b63c1397d7574f406febe2d424030060faa2f43473b683237da37ba7c46692"
+    },
+    {
+      "path": "Sources/libmobic/debug.h",
+      "sha256": "28baf349484ac211504df89474393874e85faeb8f89a95e454cd4269b1e8bca7",
+      "bytes": 1625,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "28baf349484ac211504df89474393874e85faeb8f89a95e454cd4269b1e8bca7"
+    },
+    {
+      "path": "Sources/libmobic/encryption.c",
+      "sha256": "aa1c86c8d2e01a2ae4ca913739ae1abcd53bae20e3452f62f7dc9859ad3ba966",
+      "bytes": 47947,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "aa1c86c8d2e01a2ae4ca913739ae1abcd53bae20e3452f62f7dc9859ad3ba966"
+    },
+    {
+      "path": "Sources/libmobic/encryption.h",
+      "sha256": "b1820d62f2f7746285a3f4663a3ff66e885117b2ec8c241dfecf48a17c926088",
+      "bytes": 1558,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "b1820d62f2f7746285a3f4663a3ff66e885117b2ec8c241dfecf48a17c926088"
+    },
+    {
+      "path": "Sources/libmobic/include/mobi.h",
+      "sha256": "afe73ca375c87ef77a2b0814b4496ac4a35e267aa7c685c936b3d5a15dd3d80b",
+      "bytes": 30974,
+      "upstream_status": "modified",
+      "upstream_sha256": "dac4a80d25258949ec127640e3ee9a32ca3b853871b89766c52a698b443415b0"
+    },
+    {
+      "path": "Sources/libmobic/include/module.modulemap",
+      "sha256": "af75a43fcef97c1437a9d1f43cb1eed63d5c903eab4d356e4bc9eb25387e6fc1",
+      "bytes": 91,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "af75a43fcef97c1437a9d1f43cb1eed63d5c903eab4d356e4bc9eb25387e6fc1"
+    },
+    {
+      "path": "Sources/libmobic/include/toolchain.h",
+      "sha256": "0772bb3c25551eedbd0c795d4b9128aad61c4da4fb857215efcda250eb440ba4",
+      "bytes": 381,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "0772bb3c25551eedbd0c795d4b9128aad61c4da4fb857215efcda250eb440ba4"
+    },
+    {
+      "path": "Sources/libmobic/index.c",
+      "sha256": "90f21f156231d0a987aa72732faafb3af7f643f99b1502bd25fb10ce9570d98d",
+      "bytes": 42733,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "90f21f156231d0a987aa72732faafb3af7f643f99b1502bd25fb10ce9570d98d"
+    },
+    {
+      "path": "Sources/libmobic/index.h",
+      "sha256": "472469f6bbb3ba56847f064b06a9115d25cc0ee777752f63906bac5b45a92f82",
+      "bytes": 5435,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "472469f6bbb3ba56847f064b06a9115d25cc0ee777752f63906bac5b45a92f82"
+    },
+    {
+      "path": "Sources/libmobic/memory.c",
+      "sha256": "8dae267c3d786f6b500f9cdcd7fccc2f75acfe24f3e68b9ed61120d145f70a83",
+      "bytes": 10750,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "8dae267c3d786f6b500f9cdcd7fccc2f75acfe24f3e68b9ed61120d145f70a83"
+    },
+    {
+      "path": "Sources/libmobic/memory.h",
+      "sha256": "4fc93f521e81be3a290b29cf04ec324a3afe7f302e08176d31f067169ee24a93",
+      "bytes": 790,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "4fc93f521e81be3a290b29cf04ec324a3afe7f302e08176d31f067169ee24a93"
+    },
+    {
+      "path": "Sources/libmobic/meta.c",
+      "sha256": "95d2576d7e9d5ea196df2b52152c8ead58f0b42b10c0955c70e1c0c844526a74",
+      "bytes": 24459,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "95d2576d7e9d5ea196df2b52152c8ead58f0b42b10c0955c70e1c0c844526a74"
+    },
+    {
+      "path": "Sources/libmobic/meta.h",
+      "sha256": "316327d5724dd5fad78698fc7b69368d03adc4dcfd2582969c40c6b705bf7784",
+      "bytes": 340,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "316327d5724dd5fad78698fc7b69368d03adc4dcfd2582969c40c6b705bf7784"
+    },
+    {
+      "path": "Sources/libmobic/miniz.c",
+      "sha256": "37ca7a2774e7c575a58c3e09bdbe4d358940237d41fd5e1f9e56b2540d5e693c",
+      "bytes": 264049,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "37ca7a2774e7c575a58c3e09bdbe4d358940237d41fd5e1f9e56b2540d5e693c"
+    },
+    {
+      "path": "Sources/libmobic/miniz.h",
+      "sha256": "06dba2ab8b4692efcd03a96fb026f8ea376328a83ff901f68ebf1413dd6d008a",
+      "bytes": 552,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "06dba2ab8b4692efcd03a96fb026f8ea376328a83ff901f68ebf1413dd6d008a"
+    },
+    {
+      "path": "Sources/libmobic/opf.c",
+      "sha256": "e573955956afa35f41422d6e6812b893bb289ef192ca74ff090b4a01b514ee05",
+      "bytes": 79014,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "e573955956afa35f41422d6e6812b893bb289ef192ca74ff090b4a01b514ee05"
+    },
+    {
+      "path": "Sources/libmobic/opf.h",
+      "sha256": "34edd2598b93f6df3f1692b58fa4bc9303a772b5f3b616bcbb9847cbae0941d3",
+      "bytes": 5233,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "34edd2598b93f6df3f1692b58fa4bc9303a772b5f3b616bcbb9847cbae0941d3"
+    },
+    {
+      "path": "Sources/libmobic/parse_rawml.c",
+      "sha256": "da7716dcf1393080fe232673c2ed2f82fdd11acd46016660dad41651962f6b46",
+      "bytes": 81543,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "da7716dcf1393080fe232673c2ed2f82fdd11acd46016660dad41651962f6b46"
+    },
+    {
+      "path": "Sources/libmobic/parse_rawml.h",
+      "sha256": "e54ca075ef36b504a270ee3d2c8b4295de74109a12c1bd65c1d774613b92bd71",
+      "bytes": 1357,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "e54ca075ef36b504a270ee3d2c8b4295de74109a12c1bd65c1d774613b92bd71"
+    },
+    {
+      "path": "Sources/libmobic/randombytes.c",
+      "sha256": "aa51ea968a7630ea24985fc7a671350ce32bce90a7af9e4f7cbf22f576c33a02",
+      "bytes": 10338,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "aa51ea968a7630ea24985fc7a671350ce32bce90a7af9e4f7cbf22f576c33a02"
+    },
+    {
+      "path": "Sources/libmobic/randombytes.h",
+      "sha256": "59c42d69a28e66ab363656dba1084db517dabff2f20691d07584dd9c1d2895f5",
+      "bytes": 568,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "59c42d69a28e66ab363656dba1084db517dabff2f20691d07584dd9c1d2895f5"
+    },
+    {
+      "path": "Sources/libmobic/read.c",
+      "sha256": "fc3c66189b6805edc5fc21dbecc7393dcd30cbf66d8f2b33067387b1e2fca8b7",
+      "bytes": 35628,
+      "upstream_status": "modified",
+      "upstream_sha256": "ed7f1dafecd1167d8c4cfa1bc2c77fdd3e8e5cd0e96c6405e11506c77bc5b528"
+    },
+    {
+      "path": "Sources/libmobic/read.h",
+      "sha256": "2e333b7defc72845b6d720a150243f041b6836695a8d16e03c77c83eb0f8d060",
+      "bytes": 744,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "2e333b7defc72845b6d720a150243f041b6836695a8d16e03c77c83eb0f8d060"
+    },
+    {
+      "path": "Sources/libmobic/sha1.c",
+      "sha256": "ee1352de4e126a7783b4911c6098b13585ea39a04a6bcbab3d5426c2620026ff",
+      "bytes": 9991,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "ee1352de4e126a7783b4911c6098b13585ea39a04a6bcbab3d5426c2620026ff"
+    },
+    {
+      "path": "Sources/libmobic/sha1.h",
+      "sha256": "80497d321c67b1ff24c661a325c2ee0471d590a26bdff2cf30131f4ec3d67887",
+      "bytes": 627,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "80497d321c67b1ff24c661a325c2ee0471d590a26bdff2cf30131f4ec3d67887"
+    },
+    {
+      "path": "Sources/libmobic/structure.c",
+      "sha256": "89e72472d7fa6ff348aef50d01505cff7f0732c866b5a0ac5cf282be5d27905a",
+      "bytes": 16079,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "89e72472d7fa6ff348aef50d01505cff7f0732c866b5a0ac5cf282be5d27905a"
+    },
+    {
+      "path": "Sources/libmobic/structure.h",
+      "sha256": "db3372ffa9fcac3ed7f8c20f5ece6dd0e521d8128da72b97ec96f6514fbcef8c",
+      "bytes": 2325,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "db3372ffa9fcac3ed7f8c20f5ece6dd0e521d8128da72b97ec96f6514fbcef8c"
+    },
+    {
+      "path": "Sources/libmobic/toolchain.c",
+      "sha256": "fbc1087be951ee11825ded3807cb3c03a9d25aa475455c6ec2935c38e8992ff2",
+      "bytes": 8051,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "fbc1087be951ee11825ded3807cb3c03a9d25aa475455c6ec2935c38e8992ff2"
+    },
+    {
+      "path": "Sources/libmobic/util.c",
+      "sha256": "0ce43569b39ae62ded8d540eae96d0bf9a17f2a2e3f67416a9514c9c944e6fd3",
+      "bytes": 113178,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "0ce43569b39ae62ded8d540eae96d0bf9a17f2a2e3f67416a9514c9c944e6fd3"
+    },
+    {
+      "path": "Sources/libmobic/util.h",
+      "sha256": "4c1e3d505f6553520e9b9a5127ad432799fea261581880847095ddb5120a6c94",
+      "bytes": 4833,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "4c1e3d505f6553520e9b9a5127ad432799fea261581880847095ddb5120a6c94"
+    },
+    {
+      "path": "Sources/libmobic/write.c",
+      "sha256": "5fd642d3e9bf8af419f667cace47b83e8b37fac59d48d88cc07c6b5f1d522f09",
+      "bytes": 21358,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "5fd642d3e9bf8af419f667cace47b83e8b37fac59d48d88cc07c6b5f1d522f09"
+    },
+    {
+      "path": "Sources/libmobic/write.h",
+      "sha256": "7e6c71b443db141320f3c16704aa66a6d1a91745c1dc153c4338d301f7c123e5",
+      "bytes": 325,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "7e6c71b443db141320f3c16704aa66a6d1a91745c1dc153c4338d301f7c123e5"
+    },
+    {
+      "path": "Sources/libmobic/xmlwriter.c",
+      "sha256": "61535df2afc7d28e0e3d4cf57da516416621decf69b0e688929d2809d5d5652e",
+      "bytes": 28658,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "61535df2afc7d28e0e3d4cf57da516416621decf69b0e688929d2809d5d5652e"
+    },
+    {
+      "path": "Sources/libmobic/xmlwriter.h",
+      "sha256": "d15339c3f349d190743099c11dc5d9d8c886168d9a77dead85437627942df46a",
+      "bytes": 3205,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "d15339c3f349d190743099c11dc5d9d8c886168d9a77dead85437627942df46a"
+    },
+    {
+      "path": "Tests/libmobiTests/libmobiTests.swift",
+      "sha256": "964db4d4ce528907df29bb5fa5cf7e4b32fff07b939757f0054403c78df7019f",
+      "bytes": 284,
+      "upstream_status": "unchanged",
+      "upstream_sha256": "964db4d4ce528907df29bb5fa5cf7e4b32fff07b939757f0054403c78df7019f"
+    }
+  ]
+}
