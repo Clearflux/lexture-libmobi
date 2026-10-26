@@ -37,6 +37,11 @@ replacement, re-signing, or relinking workflow. That integration must be
 validated against the specific app binary and distribution terms before
 claiming that all LGPL distribution obligations have been satisfied.
 
+For the integration checks actually completed, and their deliberately limited
+scope, see [INTEGRATION_TESTING.md](INTEGRATION_TESTING.md). Those checks verify
+that a modified compatible library is executed by isolated app test copies;
+they do not establish an end-user distribution or signing workflow.
+
 Authoritative license texts:
 
 - [GNU LGPLv3](https://www.gnu.org/licenses/lgpl-3.0.html)
